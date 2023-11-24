@@ -19,3 +19,5 @@
 ### Resutados
 
 ![Alt text](./Screenshot_2023-11-24_14_00_46.png)
+
+OBS: Não obtive bons resultados ao clonar a página de login do Facebook. Tentei outra página e obtive sucesso.
